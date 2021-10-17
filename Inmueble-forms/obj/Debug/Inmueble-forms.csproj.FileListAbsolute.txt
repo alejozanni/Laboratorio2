@@ -1,0 +1,10 @@
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Forms\Inmueble-forms\obj\Debug\Inmueble-forms.csproj.AssemblyReference.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Forms\Inmueble-forms\obj\Debug\Inmueble_forms.Form1.resources
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Forms\Inmueble-forms\obj\Debug\Inmueble_forms.Properties.Resources.resources
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Forms\Inmueble-forms\obj\Debug\Inmueble-forms.csproj.GenerateResource.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Forms\Inmueble-forms\obj\Debug\Inmueble-forms.csproj.CoreCompileInputs.cache
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Forms\Inmueble-forms\bin\Debug\Inmueble-forms.exe.config
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Forms\Inmueble-forms\bin\Debug\Inmueble-forms.exe
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Forms\Inmueble-forms\bin\Debug\Inmueble-forms.pdb
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Forms\Inmueble-forms\obj\Debug\Inmueble-forms.exe
+G:\Facultad\UDA\2do Semestre\Laboratorio 2\Desafios\Forms\Inmueble-forms\obj\Debug\Inmueble-forms.pdb
